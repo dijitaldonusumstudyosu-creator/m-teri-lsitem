@@ -23,6 +23,18 @@
       "note": "dsada",
       "id": "mtftj7431rv0k",
       "createdAt": 1788094895043
+    },
+    {
+      "company": "MD Kuaför",
+      "sector": "Güzellik",
+      "contactName": "Belli Değil",
+      "phone": "05417485052",
+      "email": "info@mdkuafor.com",
+      "source": "google",
+      "status": "yeni",
+      "note": "Web sitesi var. İnstagramları var, profesyonel yönetilmiyor, sadece işlem sonu saç çekiyorlar. Ekstra bir konsept üretilmesi gerekiyor.",
+      "id": "mtg0yxqmwmkg4",
+      "createdAt": 1788107386702
     }
   ],
   "calendarTasks": [
