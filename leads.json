@@ -61,5 +61,13 @@
       "createdAt": 1788109623758
     }
   ],
-  "calendarTasks": []
+  "calendarTasks": [
+    {
+      "id": "mtg2hltrg15b0",
+      "date": "2026-08-24",
+      "person": "hakki",
+      "text": "Potansiyel Müşterilerle Görüşmeler Sağlanacak",
+      "done": false
+    }
+  ]
 }
